@@ -174,7 +174,7 @@
 /*Footer End*/
 /*carousel*/
 .carousel-inner{position:relative; width:100%; height:380px;}
-.carousel-inner>.item>a>img,.carousel-inner>.item>img {position:absolute;  clip: rect(0px,100%,380px,0px);  }
+.carousel-inner>.item>a>img,.carousel-inner>.item>img {position:absolute;  clip: rect(0px,100%, 380px,0px);  }
 /*carousel End*/
 
 @media(min-width:768px) {
