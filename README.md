@@ -1,6 +1,6 @@
 # Agrolife Bootstrap Theme
-This is an HTML Template based on Bootstrap
+This is an HTML Template based on Bootstrap 3
 
 You can preview the template pages here:
 
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/elisavetTriant/AgrolifeBootstrapTheme/master/index-template.html
+https://elisavettriant.github.io/AgrolifeBootstrapTheme/
